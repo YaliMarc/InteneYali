@@ -40,6 +40,4 @@ public class MainActivity2 extends AppCompatActivity {
     }
     public void back(View view) {
         finish();
-    }
-
-}
+    }}
